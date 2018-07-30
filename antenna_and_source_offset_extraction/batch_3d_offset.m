@@ -1,6 +1,6 @@
 
 %Input your stations of interest below
-Stations_of_interest =["HOBART12", "NYALES20", "KATH12M ", "HART15M ", "YARRA12M", "WETTZELL", "FORTLEZA", "WARM12M ", "ONSALA60"];
+Stations_of_interest =["HOBART12", "NYALES20", "KATH12M ", "HART15M ", "YARRA12M", "WETTZELL", "FORTLEZA", "WARK12M ", "ONSALA60"];
 
 %Creating some output directories, if they already exist a warning will be
 %returned but the script will continue.

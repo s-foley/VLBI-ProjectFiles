@@ -1,6 +1,6 @@
 
 %Input your sources of interest below
-Sources_of_interest =["1418+546", "0202+319"];
+Sources_of_interest =["1418+546", "0202+319", "2227-088", "1144+402", "0332-403", "2325+093", "0308-611", "2255-282"];
 
 %Creating some output folders, if they already exist a warning will be
 %returned but the script will continue.

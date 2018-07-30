@@ -52,13 +52,13 @@ for file = files'
     end
     i=i+1;
     if k==1
-        title('Ra or De (deg) vs Session No.')
-        xlabel('Session No. (arb. right now)')
-        ylabel('Ra/De (deg)')
+        title('Dec Offset (mas) vs Session No.')
+        xlabel('Session No.')
+        ylabel('Dec Offset (mas)')
     elseif k==0
-        title('Ra Offset vs Session No.')
-        xlabel('Session No. (arb.rightnow)')
-        ylabel('Ra Offset')
+        title('Ra Offset (mas) vs Session No.')
+        xlabel('Session No.')
+        ylabel('Ra Offset (mas)')
     end
 end
 
